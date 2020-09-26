@@ -1,8 +1,8 @@
-# BinarySearchTrees
+# Binary_Search_Trees
 ## Installation
 
 ```bash
-pip install BinarySearchTrees
+pip install Binary_Search_Trees
 ```
 
 ## It is a module for Binary Search Tree Data Structures. It contains Methods to create,insert,delete,search,traverse and for many other useful Binary search Tree operations.
@@ -17,7 +17,7 @@ class Node:
 ```
 
 ```python
-import BinarySearchTrees as bst
+import Binary_Search_Trees as bst
 ```
 
 ## Methods
