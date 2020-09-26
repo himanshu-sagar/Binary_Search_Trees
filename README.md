@@ -17,19 +17,19 @@ class Node:
 ```
 
 ```python
-import Binary_Search_Trees as bst
+from Binary_Search_Trees import BST as bst
 ```
 
 ## Methods
 =======================================
-1. CreateRoot()
+1. CreateBST()
 
 	By Default Creates a Root Node With data=None</br>
 	Argument: data for Root Node -- Any value Can be passed,which will be assigned to root Node.</br>
 	Returns    : Address of Root Node of BST
 
 ```python
-root=bst.create()
+root=bst.CreateBST()
 ```
 
 2. GetLeftChild(Argument)
