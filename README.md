@@ -21,39 +21,33 @@ class Node:
 =======================================
 1. CreateRoot()
 
-	By Default Creates a Root Node With data=None
-	Argument: data for Root Node -- Any value Can be passed,which will be assigned to root Node.
-  
+	By Default Creates a Root Node With data=None</br>
+	Argument: data for Root Node -- Any value Can be passed,which will be assigned to root Node.</br>
 	Returns    : Address of Root Node of BST
   
-2. GetLeftChild()
+2. GetLeftChild(Argument)
 
-	Argument: Node of object type
-  
+	Argument: Node of object type</br>
 	Returns    : Address of left child of the Node
   
-3. GetRightChild()
+3. GetRightChild(Argument)
 
-	Argument: Node of object type
-  
+	Argument: Node of object type</br>
 	Returns    : Address of Right child of the Node
   
-4. GetRootValue()
+4. GetRootValue(Argument)
 
-	Argument: Node of object type
+	Argument: Node of object type</br>
+	Returns : Data of the Node passed
   
-	Returns    : Data of the Node passed
-  
-5. Insert()
+5. Insert(Argument1,Argument2,Argument3)
 
-	Argument1: Root Node
-  
-	Argument2: Data to be Inserted --Can be : homogeneous list, int, float or string
-  
-	Argument3: only in case of inserting dictionaries-- To insert dictionary values pass: 'values'
-                                                   -- To insert dictionary keys pass: 'keys'
+	Argument1: Root Node</br>
+	Argument2: Data to be Inserted --Can be : homogeneous list, int, float or string</br>
+	Argument3: only in case of inserting dictionaries-- To insert dictionary values pass: 'values'</br>
+                                                   -- To insert dictionary keys pass: 'keys'</br>
                                                    
-	Returns    : Nothing
+	Returns  : Nothing
   
 6. Inorder(Argument)
 
@@ -62,7 +56,7 @@ class Node:
 
 7. Preorder(Argument)
 
-	Argument: Root Node of BST which needs to be traversed
+	Argument: Root Node of BST which needs to be traversed</br>
 	Returns : List of elements after preorder traversal
 	
 8. Postorder(Argument)
@@ -104,18 +98,18 @@ class Node:
 
 	Argument1: Root Node of BST</br>
 	Argument2: Element to be searched</br>
-	Return : If Found:
+	Return : If Found:</br>
 			returns Address of Node which contains that element</br>
-		 else:
-			returns -1
+		 else:</br>
+			returns -1</br>
 						
 16. isEmpty()
 
-	Argument: Root Node of BST
-	Returns : If Empty:
-			returns True
-		else:
-			returns False
+	Argument: Root Node of BST</br>
+	Returns : If Empty:</br>
+			returns True</br>
+		else:</br>
+			returns False</br>
 	
 17. InorderPredecessor()
 
@@ -132,5 +126,5 @@ class Node:
 	Argument1: Any key element of BST to be deleted</br>
 	Returns : Address of root after deleting the specified node
 
-## License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
