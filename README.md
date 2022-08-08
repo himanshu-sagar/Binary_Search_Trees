@@ -1,6 +1,8 @@
 # Binary_Search_Trees
 [![PyPI download month](https://img.shields.io/pypi/dm/Binary-Search-Trees.svg)](https://pypi.org/project/Binary-Search-Trees/)
 [![PyPI version fury.io](https://badge.fury.io/py/Binary-Search-Trees.svg)](https://pypi.org/project/Binary-Search-Trees/)
+[![PyPI license](https://img.shields.io/pypi/l/Binary-Search-Trees.svg)](https://pypi.python.org/pypi/Binary-Search-Trees/)
+
 ## Installation
 
 ```bash
