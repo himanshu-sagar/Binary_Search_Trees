@@ -1,6 +1,7 @@
 # Binary_Search_Trees
 
-[![PyPI download month](https://img.shields.io/pypi/dm/Binary-Search-Trees.svg)](https://pypi.org/project/Binary-Search-Trees/)
+[![Downloads](https://static.pepy.tech/personalized-badge/binary-search-trees?period=total&units=international_system&left_color=black&right_color=yellowgreen&left_text=Downloads)](https://pypi.org/project/binary-search-trees)
+[![Downloads](https://static.pepy.tech/personalized-badge/binary-search-trees?period=month&units=international_system&left_color=black&right_color=yellowgreen&left_text=Monthly%20Downloads)](https://pepy.tech/project/binary-search-trees)
 [![PyPI version fury.io](https://badge.fury.io/py/Binary-Search-Trees.svg)](https://pypi.org/project/Binary-Search-Trees/)
 [![PyPI license](https://img.shields.io/pypi/l/Binary-Search-Trees.svg)](https://pypi.python.org/pypi/Binary-Search-Trees/)
 
